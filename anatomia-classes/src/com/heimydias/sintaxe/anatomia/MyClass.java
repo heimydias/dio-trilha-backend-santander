@@ -1,4 +1,4 @@
-package com.heimydias;
+package com.heimydias.sintaze.anatomia;
 
 public class MyClass {
     public static void main(String[] args) {
