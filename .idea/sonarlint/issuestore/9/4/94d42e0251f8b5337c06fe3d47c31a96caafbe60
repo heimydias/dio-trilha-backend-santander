@@ -1,16 +1,0 @@
-
-a
-java:S1854"?Remove this useless assignment to local variable "VALOR_DE_PI".(Øëİİÿÿÿÿÿ8ä›óŠ¦1
-W
-java:S1854":Remove this useless assignment to local variable "numero".(±¯ë8ä›óŠ¦1
-]
-java:S1854	"@Remove this useless assignment to local variable "numeroCurto2".(èÌæ8ä›óŠ¦1
-^
-java:S1854"ARemove this useless assignment to local variable "salarioMinimo".(«‹ù¥8ä›óŠ¦1
-O
-java:S1481"2Remove this unused "salarioMinimo" local variable.(«‹ù¥8ì›óŠ¦1
-N
-java:S1481	"1Remove this unused "numeroCurto2" local variable.(èÌæ8í›óŠ¦1
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ùÿ­B8ï›óŠ¦1
-R
-java:S1481"0Remove this unused "VALOR_DE_PI" local variable.(Øëİİÿÿÿÿÿ8ï›óŠ¦1

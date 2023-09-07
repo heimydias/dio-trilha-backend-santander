@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" filepath="$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-backend-santander.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-backend-santander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-condicional/estrutura-condicional.iml" filepath="$PROJECT_DIR$/estrutura-condicional/estrutura-condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
